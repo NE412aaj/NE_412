@@ -1,17 +1,17 @@
-Main Authors: UW-Madison Group
+Main Authors - UW-Madison Group:
 AJ Gross
 Andrew Maile
 Jordan Rein
 
-Collaborative Group: UC-Berkeley
+Collaborative Group - UC-Berkeley:
 Rachel Connick
 Joseph Lee
 Jessica Roche
 
-Industry advisor: Southern Nuclear
+Industry advisor - Southern Nuclear:
 Nick Smith
 
-Faculty advisors
+Faculty advisors:
 Tim Bohm
 Massimiliano Fratoni
 John Murhpy
